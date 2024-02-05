@@ -1,0 +1,37 @@
+@font-face {
+    font-family: 'Exo 2';
+    src: local('Exo 2 Regular'), local('Exo-2-Regular'),
+        url('../font/Exo2-Regular.woff2') format('woff2'),
+        url('../font/Exo2-Regular.woff') format('woff'),
+        url('../font/Exo2-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+  }
+
+@font-face {
+    font-family: 'Exo 2';
+    src: local('Exo 2 Bold'), local('Exo-2-Bold'),
+        url('../font/Exo2-Bold.woff2') format('woff2'),
+        url('../font/Exo2-Bold.woff') format('woff'),
+        url('../font/Exo2-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+  }
+@font-face {
+    font-family: 'Exo 2';
+    src: local('Exo 2 Medium'), local('Exo-2-Medium'),
+        url('../font/Exo2-Medium.woff2') format('woff2'),
+        url('../font/Exo2-Medium.woff') format('woff'),
+        url('../font/Exo2-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+  }
+@font-face {
+    font-family: 'Exo 2';
+    src: local('Exo 2 Light'), local('Exo-2-Light'),
+        url('../font/Exo2-Light.woff2') format('woff2'),
+        url('../font/Exo2-Light.woff') format('woff'),
+        url('../font/Exo2-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+  }
